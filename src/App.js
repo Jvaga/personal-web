@@ -6,7 +6,7 @@ import Home from './pages';
 
 function App() {
   return (
-    <Router>
+    <Router =/test_repo">
       <Switch>
         <Route path='/' element={<Home/>} exact />
         
