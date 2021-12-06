@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path='/' element={<Home/>} exact />
+        <Route path='/personal-web' exact element={<Home/>}  />
         
       </Switch>
     </Router>
