@@ -1,15 +1,15 @@
 import React from 'react';
 import './App.css';
-import {BrowserRouter as Router, Routes as Switch, Route} from 'react-router-dom'
+import {HashRouter as Router, Routes as Switch, Route} from 'react-router-dom'
 import Home from './pages';
 
 
 function App() {
   return (
-    <Router =/test_repo">
+    <Router>
       <Switch>
-        <Route path='/personal-web' exact element={<Home/>}  />
-        
+      <Route path='/' exact element={<Home/>}  />
+       
       </Switch>
     </Router>
   );

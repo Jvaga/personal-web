@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ServicesContainer = styled.div`
-    height: 600px;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -18,17 +18,17 @@ export const ServicesContainer = styled.div`
 
 export const ServicesWrapper = styled.div`
     max-width: 80%;
-    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
     grid-gap: 16px;
-    padding: 0 50px;
     width: 100%;
+    margin-bottom: 50px;
 
     @media screen and (max-width: 800px) {
         grid-template-columns: 1fr 1fr;
         width: 90%;
+        margin-bottom: 0;
         
     }
 
@@ -65,12 +65,14 @@ export const ServicesIcon = styled.img`
 `;
 
 export const ServicesH1 = styled.h1`
+    margin-top: 30px;
     font-size: 2.5rem;
     color: #fff;
     margin-bottom: 84px;
 
     @media screen and (max-width: 480px) {
         font-size: 2rem;
+        margin: auto;
     }
 `;
 

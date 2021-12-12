@@ -1,4 +1,4 @@
-import profile from '../../images/profile.svg'
+import profile from '../../images/FB_IMG_1615906571300.jpg'
 import devImg from '../../images/web_developer_blue.svg'
 
 
@@ -8,9 +8,10 @@ export const homeObjOne = {
     lightText: false,
     lightTextDesc: true,
     topLine: 'Jhonny Vargas',
-    headline: 'Ein bisschen von vielem',
-    description: 'Hallo, ich bin Jhonny, geboren in Bogota, aber eingebürgerter Deutscher. Vor einigen Jahren bin ich mit der Webentwicklung in Berührung gekommen, aber erst 2018 habe ich mich entschlossen, den Kurs zu wechseln und eine Ausbildung zum Fachinformatiker Anwendungsentwickler zu machen.',
-    buttonLabel: 'Hallo mareike',
+    headline: 'Motiviert. Neugierig. Offen.',
+    description: 'Hallo, ich bin Jhonny, ausgebildeter Fachinformatiker mit Schwerpunkt Anwendungsentwicklung.',
+    description2: 'Mein starkes Interesse an diesem Beruf wurde durch erste Erfahrungen in der Webentwicklung während meiner Selbstständigkeit geweckt. Mit wachsenden, selbsterlernten Kenntnissen im Programmieren habe ich mich dazu entschlossen, meinen beruflichen Kurs zu wechseln und eine Ausbildung in diesem Feld zu absolvieren. ',
+    description3: 'Ich verstehe mich als leidenschaftlicher Autodidakt mit großer Neugier und Streben nach ständiger persönlicher Weiterentwicklung. Beim Erlernen der deutschen Sprache, im konsequenten Selbststudium neuer Technologien der Anwendungsentwicklung vor und während meiner Ausbildung und in praktischen Arbeitserfahrungen war mein stetiger Antrieb: Man kann nicht alles können, aber man kann vieles lernen.',
     imgStart: true,
     img: profile,
     alt: 'Profil',
@@ -26,8 +27,8 @@ export const homeObjTwo = {
     lightTextDesc: true,
     topLine: 'Berufserfahrung',
     headline: 'Web-Development',
-    description: 'Ich habe meine Karriere als Webentwickler bei Sonarlock(UG) in Köln im Jahr 2020 als freiberuflicher Webentwickler begonnen.  Dort habe ich responsive Templates auf Basis von Bootstrap, HTML, CSS und Javascript entwickelt.Im Sommer 2021 absolvierte ich dort auch mein Pflichtpraktikum für meine Ausbildung als Fachinformatiker Anwendungsentwicklung, wo ich den Umgang mit Technologien wie Node.js, React.js, Express.js erlernte und meine Kenntnisse in der Konzeption und Erstellung von relationalen Datenbanken vertiefen konnte.',
-    buttonLabel: 'saber mas',
+    description: 'Ich begann meine Karriere als Webentwickler bei Sonarlock (UG) im Jahr 2020 als freiberuflicher Webentwickler und später während eines fünfmonatigen Pflichtpraktikums. Dort erlernte ich die Anwendung von u.a. Node.js, React.js, Express.js, entwickelte responsive Templates auf Basis von Bootstrap, HTML, CSS und JavaScript und vertiefte meine Kenntnisse in der Konzeption und Erstellung von relationalen Datenbanken.',
+    description2: 'In meiner Arbeit lege ich besonderen Wert auf die Nutzerfreundlichkeit von Anwendungen, einen sauberen Code und ein funktionierendes, sympathisches Team.',
     imgStart: false,
     img: devImg,
     alt: 'dev',

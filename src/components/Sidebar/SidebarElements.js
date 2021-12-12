@@ -27,7 +27,7 @@ export const CloseIcon = styled(FaTimes)`
 export const Icon = styled.div`
     position: absolute;
     top: 1.2rem;
-    right: 1.5rem;
+    right: 1rem;
     background: transparent;
     font-size: 2rem;
     cursor: pointer;
@@ -39,6 +39,7 @@ export const SidebarWrapper = styled.div`
 `;
 
 export const SidebarMenu = styled.ul`
+    width: 85%;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(6, 80px);
@@ -61,7 +62,7 @@ export const SidebarLink = styled(LinkS)`
     cursor: pointer;
 
     &:hover {
-        color: #01bf71;
+        color: #033BF9 ;
         transition: 0.2s ease-in-out;
     }
 `;

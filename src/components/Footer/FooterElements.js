@@ -3,16 +3,6 @@ import { Link } from "react-router-dom";
 
 export const FooterContainer = styled.div`
     background-color: #101522;
-    
-    @media screen and (max-width: 768px) {
-        padding-top: 100px
-        
-    }
-
-    @media screen and (max-width: 468px) {
-        padding-top: 200px
-        
-    }
 `;
 
 export const FooterWrap = styled.div`
