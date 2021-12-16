@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/personal-web/static/css/main.d076e8d2.chunk.css",
-    "main.js": "/personal-web/static/js/main.7a59fadc.chunk.js",
-    "main.js.map": "/personal-web/static/js/main.7a59fadc.chunk.js.map",
+    "main.css": "/personal-web/static/css/main.d94694c7.chunk.css",
+    "main.js": "/personal-web/static/js/main.fb2216b5.chunk.js",
+    "main.js.map": "/personal-web/static/js/main.fb2216b5.chunk.js.map",
     "runtime-main.js": "/personal-web/static/js/runtime-main.466dc0fb.js",
     "runtime-main.js.map": "/personal-web/static/js/runtime-main.466dc0fb.js.map",
     "static/js/2.416cadc6.chunk.js": "/personal-web/static/js/2.416cadc6.chunk.js",
     "static/js/2.416cadc6.chunk.js.map": "/personal-web/static/js/2.416cadc6.chunk.js.map",
     "index.html": "/personal-web/index.html",
-    "static/css/main.d076e8d2.chunk.css.map": "/personal-web/static/css/main.d076e8d2.chunk.css.map",
+    "static/css/main.d94694c7.chunk.css.map": "/personal-web/static/css/main.d94694c7.chunk.css.map",
     "static/js/2.416cadc6.chunk.js.LICENSE.txt": "/personal-web/static/js/2.416cadc6.chunk.js.LICENSE.txt",
     "static/media/FB_IMG_1615906571300.106430ce.jpg": "/personal-web/static/media/FB_IMG_1615906571300.106430ce.jpg",
     "static/media/bild_job.3d138711.jpg": "/personal-web/static/media/bild_job.3d138711.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.466dc0fb.js",
     "static/js/2.416cadc6.chunk.js",
-    "static/css/main.d076e8d2.chunk.css",
-    "static/js/main.7a59fadc.chunk.js"
+    "static/css/main.d94694c7.chunk.css",
+    "static/js/main.fb2216b5.chunk.js"
   ]
 }

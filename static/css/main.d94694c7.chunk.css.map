@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,6CACF,CACA,UAAY,oBAAqB,CAAE,2BAA4B","file":"main.d94694c7.chunk.css","sourcesContent":["* {\n  font-family: \"Encode Sans Expanded\", sans-serif;\n}\nhtml, body {width: auto!important; overflow-x: hidden!important} \n"]}
